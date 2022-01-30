@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,kBAAmB,CACnB,UACF,CAEA,mBACE,eAAgB,CAChB,gBACF","file":"main.06c5d4fb.chunk.css","sourcesContent":["body {\n  background: #141414;\n  color: #ffffff;\n}\n\n.movie-app > .columb {\n  overflow-x: auto;\n  flex-wrap: nowrap;\n}\n"]}
